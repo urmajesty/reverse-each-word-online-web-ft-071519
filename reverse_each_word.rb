@@ -4,5 +4,5 @@ new_array = []
 new_array << split_it.pop
 end
 end
-return new array
+return new_array
 end
