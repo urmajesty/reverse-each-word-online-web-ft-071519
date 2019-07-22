@@ -3,3 +3,5 @@ def reverse_each_word(string)
 
 return split_it
 end
+def split_it
+  
