@@ -6,7 +6,7 @@ def reverse_each_word(string)
 end
 puts new_array
 end
-end
+
 
 
 
