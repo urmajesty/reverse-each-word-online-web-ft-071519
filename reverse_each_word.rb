@@ -7,5 +7,5 @@ puts new_array
 end
 end
 
-
+end
 
