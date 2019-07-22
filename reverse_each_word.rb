@@ -1,4 +1,4 @@
 def reverse_each_word(string)
   new_array = []
-string.each
+puts string.each
 end
