@@ -4,7 +4,7 @@ def reverse_each_word(string)
   string.size.times{new_array << split_it.pop}
   new_array.join
 end
-return new_array
+puts new_array
 end
 end
 
