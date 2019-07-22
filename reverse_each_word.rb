@@ -3,7 +3,7 @@ def reverse_each_word(string)
 new_array = []
 new_array << split_it.pop
 
-return new_array
+puts()
 end
 end
 end
