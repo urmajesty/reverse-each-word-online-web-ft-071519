@@ -4,7 +4,7 @@ def reverse_each_word(string)
    reversal = new_string.each {|word| word.reverse!}
   return reversal.join(" ")
 
-end
+
 
 def reverse_each_word(string)
   reversal
