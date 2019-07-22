@@ -5,3 +5,4 @@ new_array << split_it.pop
 end
 return new_array
 end
+end
