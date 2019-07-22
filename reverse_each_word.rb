@@ -1,3 +1,3 @@
 def reverse_each_word(string)
-puts string
+p string
 end
