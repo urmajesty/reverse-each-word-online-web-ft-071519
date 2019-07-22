@@ -1,4 +1,5 @@
-def reverse_each-word(string)
-  puts string
+def reverse_each_word(string)
+  puts string.split
+  
 end
 
