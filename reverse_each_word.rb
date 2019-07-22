@@ -6,3 +6,4 @@ new_array << split_it.pop
 return new_array
 end
 end
+end
